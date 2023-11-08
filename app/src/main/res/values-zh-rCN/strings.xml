@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">串口助手</string>
+
+    <string name="title_open">打开</string>
+    <string name="title_close">关闭</string>
+    <string name="title_cancel">取消</string>
+    <string name="title_save">保存</string>
+    <string name="title_send">发送</string>
+    <string name="title_loop_read">读</string>
+    <string name="title_hex_show">Hex</string>
+
+    <string name="toast_message_open_device_fail">打开设备失败！</string>
+    <string name="toast_message_write_value_fail">写入数据失败！</string>
+
+</resources>
